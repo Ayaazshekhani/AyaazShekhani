@@ -10,7 +10,7 @@ With 1 year of **hands-on experience** in data analysis, I combine technical exp
 ## 🚀 About Me
 - 🎓 Completed **Machine Learning Specialization** by Stanford University & DeepMind and **IBM Data Analyst Professional Certificate**.
 - 📜 Certified in **Data Visualization with Power BI** (Great Learning).
-- 🤝 Former **AI/ML Co-Head at Google Developer Student Clubs** for 2 years.
+- 🤝 Former **AI/ML and Technical Head at Google Developer Groups** for 2 years.
 - 🛠️ Experienced in **Python, R, SQL, Excel, Pandas, NumPy, Scikit-learn, TensorFlow, Keras**, and visualization tools like **Power BI, Tableau, Matplotlib, Seaborn, Google Data Studio**.
 - 📊 Skilled in **EDA, predictive modeling, dashboard creation, and NLP**.
 - 🌐 Love to work on impactful, end-to-end AI & analytics solutions.

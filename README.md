@@ -3,12 +3,12 @@
 **Data Analyst | Machine Learning Engineer | AI Enthusiast**  
 
 💡 Passionate about transforming raw data into actionable insights and building AI-powered solutions that solve real-world problems.  
-With 1 year of **hands-on experience** in data analysis, I combine technical expertise with business acumen to create impactful projects.  
+With 1 year of **hands-on experience** in data analysis across organizations such as CollegeTips.in and Edunet Foundation, I combine technical expertise with business acumen to create impactful projects.  
 
 ---
 
 ## 🚀 About Me
-- 🎓 Completed **Machine Learning Specialization** by Stanford University & DeepMind and **IBM Data Analyst Professional Certificate**.
+- 🎓 Completed **IBM Data Analyst Professional Certificate** and **Stanford University Machine Learning Specialization**.
 - 📜 Certified in **Data Visualization with Power BI** (Great Learning).
 - 🤝 Former **AI/ML and Technical Head at Google Developer Groups** for 2 years.
 - 🛠️ Experienced in **Python, R, SQL, Excel, Pandas, NumPy, Scikit-learn, TensorFlow, Keras**, and visualization tools like **Power BI, Tableau, Matplotlib, Seaborn, Google Data Studio**.

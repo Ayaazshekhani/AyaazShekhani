@@ -3,7 +3,7 @@
 **Data Analyst | Machine Learning Engineer | AI Enthusiast**  
 
 💡 Passionate about transforming raw data into actionable insights and building AI-powered solutions that solve real-world problems.  
-With 1 year of **hands-on experience** in data analysis across organizations such as CollegeTips.in and Edunet Foundation, I combine technical expertise with business acumen to create impactful projects.  
+With **1 year of hands-on experience** in data analysis across organizations such as **CollegeTips.in** and **Edunet Foundation**, I combine technical expertise with business acumen to create impactful projects.  
 
 ---
 
